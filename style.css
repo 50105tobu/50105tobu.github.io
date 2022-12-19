@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+    padding-left: 100px;
+    font-family: "Hiragino Kaku Gothic Pro","Hiragino Sans","Yu Gothic",sans-serif;
+    background-color: #2C2C2C;
+    color: #dcdcdc;
+}
+
+/*a { color: #8db2e5; }*/
+a:link { color: #8db2e5; }
+a:visited { color: #c76ed7; }
+a:hover { color: #9fbee9; }
+
+div {
+    padding-left: 40px;
+}
+
+img {
+    width: 500px;
+}
