@@ -19,3 +19,10 @@ div {
 img {
     width: 500px;
 }
+
+/*実線*/
+.box1 {
+    margin:2em auto;
+    padding:2em;/*内側余白*/
+    border:solid 2px #dcdcdc;/*線の種類・太さ・色*/
+    }
