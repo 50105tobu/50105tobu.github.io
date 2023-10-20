@@ -26,3 +26,7 @@ img {
     padding:2em;/*内側余白*/
     border:solid 2px #dcdcdc;/*線の種類・太さ・色*/
     }
+
+.contents_category {
+    font-size: 2em;
+}
