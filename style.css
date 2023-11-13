@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     padding-left: 100px;
     font-family: "Hiragino Kaku Gothic Pro","Hiragino Sans","Yu Gothic",sans-serif;
